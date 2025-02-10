@@ -2,3 +2,4 @@ name = "gemini"
 main = "src/worker.mjs"
 compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ]
+account_id ="ecf3362f9628d05b2aa995f5513145fa"
